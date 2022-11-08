@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fofo2020
-- 👀 I’m interested in learning coding
+- 👀 I’m interested in code in general.
 - 🌱 I’m currently learning Front-End Web Dev.
 - 💞️ I’m looking to collaborate on anything I can!
 - 📫 Reach me on Twitter or Instagram
